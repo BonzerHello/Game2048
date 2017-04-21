@@ -1,4 +1,4 @@
-package testing;
+package ch.bfh.domain;
 
 /**
  * Created by tilli_000 on 20.04.2017.

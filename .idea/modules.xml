@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Game2048.iml" filepath="$PROJECT_DIR$/Game2048.iml" />
+      <module fileurl="file://C:\Users\tilli_000\gitHub\Game2048\Game2048.iml" filepath="C:\Users\tilli_000\gitHub\Game2048\Game2048.iml" />
     </modules>
   </component>
 </project>
